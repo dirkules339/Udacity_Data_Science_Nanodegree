@@ -1,3 +1,7 @@
+# Link to blog post
+
+https://dirkules339.github.io/blog/
+
 # Libraries
 - pandas
 - numpy 
