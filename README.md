@@ -1,1 +1,1 @@
-# Udacity_Data_Science_Nanodegree
+# Udacity_DS
